@@ -1,5 +1,5 @@
 {
-  "numStartups": 99,
+  "numStartups": 100,
   "installMethod": "global",
   "autoUpdates": true,
   "tipsHistory": {
@@ -14,7 +14,7 @@
     "# for memory": 96,
     "install-github-app": 97,
     "permissions": 98,
-    "drag-and-drop-images": 78,
+    "drag-and-drop-images": 100,
     "double-esc": 81,
     "continue": 84,
     "custom-commands": 80,
@@ -203,6 +203,10 @@
     "/Users/davide": {
       "allowedTools": [],
       "history": [
+        {
+          "display": "/sync-status",
+          "pastedContents": {}
+        },
         {
           "display": "are you sure there's not something else waking my device?",
           "pastedContents": {}
@@ -552,17 +556,7 @@
       "projectOnboardingSeenCount": 4,
       "hasClaudeMdExternalIncludesApproved": false,
       "hasClaudeMdExternalIncludesWarningShown": false,
-      "lastTotalWebSearchRequests": 0,
-      "lastCost": 0.0006612000000000002,
-      "lastAPIDuration": 536082,
-      "lastDuration": 10303324,
-      "lastLinesAdded": 0,
-      "lastLinesRemoved": 0,
-      "lastTotalInputTokens": 58,
-      "lastTotalOutputTokens": 58,
-      "lastTotalCacheCreationInputTokens": 0,
-      "lastTotalCacheReadInputTokens": 0,
-      "lastSessionId": "4f181775-9f47-480e-83e0-1f6e6440baa9"
+      "lastTotalWebSearchRequests": 0
     },
     "/Users/davide/Projects/Chinese EV exports data": {
       "allowedTools": [],
