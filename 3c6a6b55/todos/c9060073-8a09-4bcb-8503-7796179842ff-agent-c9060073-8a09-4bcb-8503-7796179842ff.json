@@ -1,0 +1,26 @@
+[
+  {
+    "content": "Update main.py variable names to match SAS conventions",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Update utilities.py variable names to match SAS conventions",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Commit the changes after variable renaming",
+    "status": "completed",
+    "priority": "medium",
+    "id": "3"
+  },
+  {
+    "content": "Fix indexing and reference issues after variable renaming",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  }
+]

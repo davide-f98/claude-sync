@@ -1,0 +1,38 @@
+[
+  {
+    "content": "Check if required tools are already installed (Rust, Bun, Git, Claude CLI)",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Install missing dependencies without admin rights",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Clone Claudia repository",
+    "status": "completed",
+    "priority": "medium",
+    "id": "3"
+  },
+  {
+    "content": "Install project dependencies with bun",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  },
+  {
+    "content": "Build Claudia application",
+    "status": "completed",
+    "priority": "medium",
+    "id": "5"
+  },
+  {
+    "content": "Test the built executable",
+    "status": "completed",
+    "priority": "low",
+    "id": "6"
+  }
+]

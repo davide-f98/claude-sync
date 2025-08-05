@@ -1,0 +1,14 @@
+[
+  {
+    "content": "Fix German ANDAMENTO calculation to match SAS logic exactly",
+    "status": "completed",
+    "priority": "high",
+    "id": "7"
+  },
+  {
+    "content": "Run final verification to confirm all outputs match",
+    "status": "completed",
+    "priority": "high",
+    "id": "8"
+  }
+]

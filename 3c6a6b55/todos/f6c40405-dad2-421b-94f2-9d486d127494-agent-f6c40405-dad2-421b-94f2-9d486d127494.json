@@ -1,0 +1,56 @@
+[
+  {
+    "content": "Create data_processor.py with data loading and processing functions",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Generate Timeline Analysis Chart (USA vs World exports over time)",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Generate USA Market Share Evolution chart",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Generate Growth Rate Comparison chart by year",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Generate Market Dependency pie charts (political periods)",
+    "status": "completed",
+    "priority": "high",
+    "id": "5"
+  },
+  {
+    "content": "Generate Tariff Scenario Modeling chart",
+    "status": "completed",
+    "priority": "high",
+    "id": "6"
+  },
+  {
+    "content": "Generate Monthly Volatility Heatmap",
+    "status": "completed",
+    "priority": "high",
+    "id": "7"
+  },
+  {
+    "content": "Calculate key statistics and insights for presentation",
+    "status": "completed",
+    "priority": "medium",
+    "id": "8"
+  },
+  {
+    "content": "Create/update PLAN.md with findings and methodology",
+    "status": "completed",
+    "priority": "low",
+    "id": "9"
+  }
+]

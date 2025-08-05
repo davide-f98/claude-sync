@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Update data_processor.py to read actual Eurostat CSV file",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Replace sample data with real Eurostat values in EUR",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Create new visualizations using real monthly data",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Update analysis document with precise Eurostat figures",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Delete useless files and clean up folder",
+    "status": "completed",
+    "priority": "medium",
+    "id": "5"
+  }
+]
