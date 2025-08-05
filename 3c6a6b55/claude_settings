@@ -16,7 +16,12 @@
       "Bash(pmset -g assertions)",
       "Bash(launchctl list)",
       "Bash(pmset -g sysload)",
-      "Bash(pmset -g log)"
+      "Bash(pmset -g log)",
+      "Bash(cat:*)",
+      "Bash(find:*)",
+      "Bash(ls:*)",
+      "Bash(powershell:*)",
+      "Bash(python test:*)"
     ],
     "deny": []
   }
