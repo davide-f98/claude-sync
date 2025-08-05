@@ -1,13 +1,15 @@
 {
   "machine_id": "3c6a6b55",
   "hostname": "WSTATION-0voP6y",
-  "timestamp": "2025-08-05T21:23:38.636108",
-  "sync_level": "essential",
+  "timestamp": "2025-08-05T21:41:09.846944",
+  "sync_level": "full",
   "synced_items": [
     "claude_config",
     "claude_settings",
     "context_file",
     "session_data",
-    "todos"
+    "todos",
+    "shell_snapshots",
+    "slash_commands"
   ]
 }
