@@ -1,5 +1,8 @@
-Use uv commands to manage dependencies and run python scripts (e.g. uv add pandas, uv sync, uv run main.py).
+Never write anywhere that i used AI or LLM to write code.
+Use uv commands to manage dependencies and run python scripts (e.g. uv init, uv add pandas, uv sync, uv run main.py).
 
+Use only ASCII characters.
+Never use UNICODE characters. 
 Never use "try...except" when coding in python.
 Make the code simple and straightforward so that its logic is easy to understand for non-coder people too.
 Always commit after you write a new function or you fix a bug.
@@ -37,7 +40,7 @@ gemini -p "@./ Give me an overview of this entire project"
 # Or use --all_files flag:
 gemini --all_files -p "Analyze the project structure and dependencies"
 
-Implementation Verification Examples
+## Implementation Verification Examples
 
 Check if a feature is implemented:
 gemini -p "@src/ @lib/ Has dark mode been implemented in this codebase? Show me the relevant files and functions"
@@ -63,7 +66,7 @@ gemini -p "@src/ @api/ Are SQL injection protections implemented? Show how user 
 Verify test coverage for features:
 gemini -p "@src/payment/ @tests/ Is the payment processing module fully tested? List all test cases"
 
-When to Use Gemini CLI
+## When to Use Gemini CLI
 
 Use gemini -p when:
 - Analyzing entire codebases or large directories
@@ -74,7 +77,7 @@ Use gemini -p when:
 - Verifying if specific features, patterns, or security measures are implemented
 - Checking for the presence of certain coding patterns across the entire codebase
 
-Important Notes
+## Important Notes
 
 - Paths in @ syntax are relative to your current working directory when invoking gemini
 - The CLI will include file contents directly in the context
