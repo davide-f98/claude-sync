@@ -308,6 +308,10 @@
       "allowedTools": [],
       "history": [
         {
+          "display": "!/sync-status",
+          "pastedContents": {}
+        },
+        {
           "display": "help me run the following commands on this laptop: Essential sync:\n  /sync-pull          - Pull context and basic settings\n  /sync-push          - Push context and basic settings\n\nExtended sync:\n  /sync-pull-full     - Pull ALL Claude data (sessions, MCP, etc.)\n  /sync-push-full     - Push ALL Claude data\n  /sync-full          - Complete bidirectional sync\n  /sync-status        - Show detailed sync status",
           "pastedContents": {}
         },
