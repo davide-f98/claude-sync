@@ -1,0 +1,44 @@
+[
+  {
+    "content": "Run pattern analysis to confirm current mismatch patterns and extract failing company IDs",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Analyze Pattern 1: '04 - Stazionario → 05 - Oscillante' (16 cases) - debug sample companies",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Investigate nanmax-based stability logic and potential oscillation condition issues",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Analyze Pattern 2: '07 - In regresso → 08 - Negativo' (6 cases) - boundary conditions",
+    "status": "pending",
+    "priority": "medium",
+    "id": "4"
+  },
+  {
+    "content": "Analyze Pattern 3: '08 - Negativo → XX - Non disponibile' (3 cases) - data availability",
+    "status": "pending",
+    "priority": "medium",
+    "id": "5"
+  },
+  {
+    "content": "Implement targeted fixes based on analysis findings",
+    "status": "in_progress",
+    "priority": "high",
+    "id": "6"
+  },
+  {
+    "content": "Run verification to confirm mismatch reduction and test for regression",
+    "status": "pending",
+    "priority": "high",
+    "id": "7"
+  }
+]

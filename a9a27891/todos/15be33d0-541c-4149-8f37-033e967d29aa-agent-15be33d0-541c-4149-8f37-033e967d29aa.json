@@ -1,0 +1,14 @@
+[
+  {
+    "content": "Remove 'corrected' word from all titles, names, and filenames",
+    "status": "in_progress",
+    "priority": "high",
+    "id": "remove_corrected_labels"
+  },
+  {
+    "content": "Create MD file with short comments for each plot for presentation",
+    "status": "pending",
+    "priority": "high",
+    "id": "create_plot_comments"
+  }
+]

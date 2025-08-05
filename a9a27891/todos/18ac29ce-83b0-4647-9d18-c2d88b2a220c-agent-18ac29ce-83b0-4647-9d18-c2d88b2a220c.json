@@ -1,0 +1,50 @@
+[
+  {
+    "content": "Create detailed SAS vs Python comparison markdown document",
+    "status": "completed",
+    "priority": "high",
+    "id": "comparison_doc"
+  },
+  {
+    "content": "Analyze data loading and import differences (SAS lines 5-26 vs Python utilities.py:10-22)",
+    "status": "completed",
+    "priority": "high",
+    "id": "data_loading"
+  },
+  {
+    "content": "Compare weighted PD calculation methods (SAS lines 28-40 vs Python utilities.py:25-41)",
+    "status": "completed",
+    "priority": "high",
+    "id": "pd_calculation"
+  },
+  {
+    "content": "Analyze business logic differences focusing on age calculation (SAS lines 42-94 vs Python utilities.py:44-168)",
+    "status": "completed",
+    "priority": "high",
+    "id": "business_logic"
+  },
+  {
+    "content": "Compare parameter score association methods (SAS lines 101-120 vs Python utilities.py:171-208)",
+    "status": "completed",
+    "priority": "high",
+    "id": "score_association"
+  },
+  {
+    "content": "Analyze final score calculation and identify floating point precision issues (SAS lines 134-188 vs Python utilities.py:211-320)",
+    "status": "completed",
+    "priority": "high",
+    "id": "final_scoring"
+  },
+  {
+    "content": "Compare data cleanup and export processes (SAS lines 190-210 vs Python utilities.py:296-341)",
+    "status": "completed",
+    "priority": "high",
+    "id": "cleanup_export"
+  },
+  {
+    "content": "Identify and document key discrepancies that could cause output differences",
+    "status": "completed",
+    "priority": "high",
+    "id": "discrepancy_analysis"
+  }
+]

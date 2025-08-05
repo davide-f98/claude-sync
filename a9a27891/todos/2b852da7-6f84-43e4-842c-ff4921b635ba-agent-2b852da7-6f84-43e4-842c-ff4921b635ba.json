@@ -1,0 +1,56 @@
+[
+  {
+    "content": "Analyze current verification results to identify failing patterns",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Examine calculate_andamento_sistema() function in utilities_2.py",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Create debug version of calculate_andamento_sistema() with detailed logging",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Create debug script for failing companies analysis",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  },
+  {
+    "content": "Extract failing companies data with internal columns",
+    "status": "completed",
+    "priority": "medium",
+    "id": "5"
+  },
+  {
+    "content": "Test each IF/ELSE IF condition individually for failing cases",
+    "status": "completed",
+    "priority": "high",
+    "id": "6"
+  },
+  {
+    "content": "Identify and fix logical condition divergence points",
+    "status": "completed",
+    "priority": "high",
+    "id": "7"
+  },
+  {
+    "content": "Run targeted verification and iterate fixes",
+    "status": "completed",
+    "priority": "medium",
+    "id": "8"
+  },
+  {
+    "content": "Fix remaining 04-Stazionario vs 05-Oscillante pattern (16 cases)",
+    "status": "completed",
+    "priority": "high",
+    "id": "9"
+  }
+]

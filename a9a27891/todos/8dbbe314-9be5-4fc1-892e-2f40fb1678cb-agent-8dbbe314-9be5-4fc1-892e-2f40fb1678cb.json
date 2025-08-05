@@ -1,0 +1,74 @@
+[
+  {
+    "content": "Check classify_sector_2_financial_situation for redundant/missing conditions",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Check classify_sector_3_financial_situation for redundant/missing conditions",
+    "status": "in_progress",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Check classify_sector_4_financial_situation for redundant/missing conditions",
+    "status": "pending",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Check classify_sector_5_financial_situation for redundant/missing conditions",
+    "status": "pending",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Check classify_sector_6_financial_situation for redundant/missing conditions",
+    "status": "pending",
+    "priority": "high",
+    "id": "5"
+  },
+  {
+    "content": "Check classify_sector_7_financial_situation for redundant/missing conditions",
+    "status": "pending",
+    "priority": "high",
+    "id": "6"
+  },
+  {
+    "content": "Check classify_sector_8_financial_situation for redundant/missing conditions",
+    "status": "pending",
+    "priority": "high",
+    "id": "7"
+  },
+  {
+    "content": "Check classify_sector_9_financial_situation for redundant/missing conditions",
+    "status": "pending",
+    "priority": "high",
+    "id": "8"
+  },
+  {
+    "content": "Check classify_sector_10_financial_situation for redundant/missing conditions",
+    "status": "pending",
+    "priority": "high",
+    "id": "9"
+  },
+  {
+    "content": "Check classify_sector_11_financial_situation for redundant/missing conditions",
+    "status": "pending",
+    "priority": "high",
+    "id": "10"
+  },
+  {
+    "content": "Check classify_sector_12_financial_situation for redundant/missing conditions",
+    "status": "pending",
+    "priority": "high",
+    "id": "11"
+  },
+  {
+    "content": "Check classify_sector_13_financial_situation for redundant/missing conditions",
+    "status": "pending",
+    "priority": "high",
+    "id": "12"
+  }
+]

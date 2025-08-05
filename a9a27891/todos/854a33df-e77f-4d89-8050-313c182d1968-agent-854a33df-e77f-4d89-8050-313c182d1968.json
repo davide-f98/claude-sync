@@ -1,0 +1,68 @@
+[
+  {
+    "content": "Analyze expected SAS output structure and current Python output differences",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Compare column structures between expected and actual output",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Validate business logic implementation against SAS code",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Fix scoring algorithms and financial calculations",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Ensure exact column order and naming matches SAS output",
+    "status": "completed",
+    "priority": "medium",
+    "id": "5"
+  },
+  {
+    "content": "Test with full dataset to achieve 3,603 rows output",
+    "status": "completed",
+    "priority": "medium",
+    "id": "6"
+  },
+  {
+    "content": "Implement missing ANDAMENTO_SISTEMA classification logic",
+    "status": "completed",
+    "priority": "high",
+    "id": "7"
+  },
+  {
+    "content": "Implement C7/C8 scoring logic and final rating calculation",
+    "status": "completed",
+    "priority": "high",
+    "id": "8"
+  },
+  {
+    "content": "Implement sit_fin_SIST and PAGAMENTI_SIST classification",
+    "status": "completed",
+    "priority": "high",
+    "id": "9"
+  },
+  {
+    "content": "Refine business logic to match SAS value distributions",
+    "status": "completed",
+    "priority": "high",
+    "id": "10"
+  },
+  {
+    "content": "Create comprehensive validation script for output comparison",
+    "status": "completed",
+    "priority": "medium",
+    "id": "11"
+  }
+]

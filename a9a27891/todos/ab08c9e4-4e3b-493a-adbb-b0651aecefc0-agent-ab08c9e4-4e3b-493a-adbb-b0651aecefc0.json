@@ -1,0 +1,14 @@
+[
+  {
+    "content": "Add uv bin directory to PATH in PowerShell profile",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Verify claude-monitor command works",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  }
+]

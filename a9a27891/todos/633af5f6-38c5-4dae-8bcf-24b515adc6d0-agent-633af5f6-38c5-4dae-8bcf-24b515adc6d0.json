@@ -1,0 +1,38 @@
+[
+  {
+    "content": "Remove AI-generated debug and analysis files",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Humanize main.py - simplify docstrings and add casual comments",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Humanize utilities_common.py - break up complex functions, add informal notes",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Humanize country rating modules (Germany, Spain, France)",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Add realistic development patterns and inconsistencies",
+    "status": "completed",
+    "priority": "medium",
+    "id": "5"
+  },
+  {
+    "content": "Test final code to ensure functionality is preserved",
+    "status": "completed",
+    "priority": "medium",
+    "id": "6"
+  }
+]

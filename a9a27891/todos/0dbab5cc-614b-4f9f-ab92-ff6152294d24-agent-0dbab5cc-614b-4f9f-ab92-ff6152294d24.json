@@ -1,0 +1,20 @@
+[
+  {
+    "content": "Remove timing prints from verify_and_get_mismatches function",
+    "status": "completed",
+    "priority": "medium",
+    "id": "1"
+  },
+  {
+    "content": "Remove timing prints from main pipeline function",
+    "status": "completed",
+    "priority": "medium",
+    "id": "2"
+  },
+  {
+    "content": "Clean up progress prints from verification loop",
+    "status": "completed",
+    "priority": "low",
+    "id": "3"
+  }
+]
