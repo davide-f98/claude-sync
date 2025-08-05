@@ -21,12 +21,12 @@
   },
   {
     "content": "Test the sync with python claude-sync-extended.py push",
-    "status": "in_progress",
+    "status": "completed",
     "id": "5"
   },
   {
     "content": "Fix any identified issues",
-    "status": "pending",
+    "status": "in_progress",
     "id": "6"
   }
 ]
