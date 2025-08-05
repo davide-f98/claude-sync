@@ -308,6 +308,10 @@
       "allowedTools": [],
       "history": [
         {
+          "display": "why when i use the sync-push-full command i get the following? To https://github.com/davide-f98/claude-sync\n ! [rejected]        main -> main (fetch first)\nerror: failed to push some refs to 'https://github.com/davide-f98/claude-sync'\nhint: Updates were rejected because the remote contains work that you do not\nhint: have locally. This is usually caused by another repository pushing to\nhint: the same ref. If you want to integrate the remote changes, use\nhint: 'git pull' before pushing again.\nhint: See the 'Note about fast-forwards' in 'git push --help' for details.\nX Sync failed: Command '['git', 'push']' returned non-zero exit status 1.",
+          "pastedContents": {}
+        },
+        {
           "display": "why everytime i execute a bash command i get the following? Error: /c/Users/cg14849/.bashrc: line 1: $'\\377\\376export': command not found",
           "pastedContents": {}
         },

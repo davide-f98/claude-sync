@@ -1,0 +1,44 @@
+[
+  {
+    "content": "Install Rust (1.70.0 or later)",
+    "status": "completed",
+    "priority": "high",
+    "id": "install-rust"
+  },
+  {
+    "content": "Install Bun package manager",
+    "status": "completed",
+    "priority": "high",
+    "id": "install-bun"
+  },
+  {
+    "content": "Verify Git is installed",
+    "status": "completed",
+    "priority": "medium",
+    "id": "verify-git"
+  },
+  {
+    "content": "Verify Claude Code CLI is installed",
+    "status": "completed",
+    "priority": "medium",
+    "id": "verify-claude"
+  },
+  {
+    "content": "Install macOS dependencies (Xcode Command Line Tools)",
+    "status": "completed",
+    "priority": "medium",
+    "id": "install-macos-deps"
+  },
+  {
+    "content": "Install frontend dependencies with bun",
+    "status": "completed",
+    "priority": "medium",
+    "id": "install-deps"
+  },
+  {
+    "content": "Build the application for production",
+    "status": "completed",
+    "priority": "medium",
+    "id": "build-app"
+  }
+]

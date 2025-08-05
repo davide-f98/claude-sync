@@ -11,6 +11,6 @@ fi
 
 LEVEL="${2:-essential}"
 python3 ~/claude-sync-extended.py setup --git-repo "$1" --level "$LEVEL"
-echo "? Extended sync configured!"
-echo "?? Run /sync-status to see what will be synced"
+echo "✅ Extended sync configured!"
+echo "📊 Run /sync-status to see what will be synced"
 ```
