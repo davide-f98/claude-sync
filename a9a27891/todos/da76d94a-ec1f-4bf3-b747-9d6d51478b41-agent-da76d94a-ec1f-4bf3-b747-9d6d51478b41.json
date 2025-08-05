@@ -1,0 +1,14 @@
+[
+  {
+    "content": "Fix merge_claude_md function to properly sync CLAUDE.md updates",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Test the fixed sync functionality",
+    "status": "completed",
+    "priority": "medium",
+    "id": "2"
+  }
+]
