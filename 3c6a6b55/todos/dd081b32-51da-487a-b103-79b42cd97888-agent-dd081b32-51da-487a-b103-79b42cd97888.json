@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Read DEBUG_CLAUDE_MD_SYNC.md for full context",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Examine the claude-sync-extended.py file",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Check the CLAUDE.md file structure and location",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Analyze staging logic for CLAUDE.md handling",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Test the sync with python claude-sync-extended.py push",
+    "status": "in_progress",
+    "id": "5"
+  },
+  {
+    "content": "Fix any identified issues",
+    "status": "pending",
+    "id": "6"
+  }
+]

@@ -1,3 +1,4 @@
+Start all your messages with "Yes, sir".
 Never write anywhere that i used AI or LLM to write code.
 Use uv commands to manage dependencies and run python scripts (e.g. uv init, uv add pandas, uv sync, uv run main.py).
 
