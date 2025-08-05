@@ -1,7 +1,7 @@
 [
   {
     "content": "Debug why context_file (CLAUDE.md) is not being staged in sync process",
-    "status": "in_progress",
+    "status": "completed",
     "id": "debug-context-file"
   }
 ]

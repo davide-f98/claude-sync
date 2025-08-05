@@ -21,7 +21,9 @@
       "Bash(find:*)",
       "Bash(ls:*)",
       "Bash(powershell:*)",
-      "Bash(python test:*)"
+      "Bash(python test:*)",
+      "Bash(git pull:*)",
+      "Bash(git push:*)"
     ],
     "deny": []
   }
