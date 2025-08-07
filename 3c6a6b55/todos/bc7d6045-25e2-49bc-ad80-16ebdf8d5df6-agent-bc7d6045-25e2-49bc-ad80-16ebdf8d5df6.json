@@ -1,8 +1,0 @@
-[
-  {
-    "content": "Fix np.select array length mismatch in implement_financial_classifications function",
-    "status": "completed",
-    "priority": "high",
-    "id": "09"
-  }
-]
