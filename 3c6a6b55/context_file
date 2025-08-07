@@ -2,13 +2,6 @@ Start all your messages with "Yes, sir".
 Never write anywhere that i used AI or LLM to write code.
 Use uv commands to manage dependencies and run python scripts (e.g. uv init, uv add pandas, uv sync, uv run main.py).
 
-# STRICT ASCII-ONLY POLICY
-FORBIDDEN CHARACTERS: Absolutely NO Unicode characters, emojis, symbols, or special characters outside ASCII range 32-126.
-This applies to: ALL code, comments, strings, output messages, documentation, and any text generated or displayed.
-Check all generated text before showing it to ensure ASCII-only compliance.
-Use only standard English letters (a-z, A-Z), numbers (0-9), and basic ASCII punctuation (!@#$%^&*()_-+={}[]|:;'<>,.?/~`).
-Replace any Unicode or symbols with ASCII equivalents (e.g., use "alternative" instead of "∀", use "done" instead of "✅").
-
 Use only ASCII characters.
 Never use UNICODE characters. 
 Never use "try...except" when coding in python.
@@ -98,12 +91,6 @@ Important Notes
 
 Never write anywhere that i used AI or LLM to write code.
 Use uv commands to manage dependencies and run python scripts (e.g. uv init, uv add pandas, uv sync, uv run main.py).
-
-# STRICT ASCII-ONLY POLICY
-FORBIDDEN CHARACTERS: Absolutely NO Unicode characters, emojis, symbols, or special characters outside ASCII range 32-126.
-This applies to: ALL code, comments, strings, output messages, documentation, and any text generated or displayed.
-Check all generated text before showing it to ensure ASCII-only compliance.
-Use only standard English letters (a-z, A-Z), numbers (0-9), and basic ASCII punctuation (!@#$%^&*()_-+={}[]|:;'<>,.?/~`).
 
 Use only ASCII characters.
 Never use UNICODE characters. 

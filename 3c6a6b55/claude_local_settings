@@ -25,7 +25,10 @@
       "Bash(git pull:*)",
       "Bash(git push:*)",
       "Bash(python:*)",
-      "Bash(cmd /c:*)"
+      "Bash(cmd /c:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git clone https://github.com/davide-f98/claude-sync-project)"
     ],
     "deny": []
   }
