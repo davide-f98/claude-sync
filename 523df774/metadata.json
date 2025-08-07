@@ -1,0 +1,17 @@
+{
+  "machine_id": "523df774",
+  "hostname": "MacBook-Air-di-Davide.local",
+  "timestamp": "2025-08-07T23:18:48.205617",
+  "sync_level": "full",
+  "synced_items": [
+    "claude_config",
+    "claude_global_settings",
+    "claude_local_settings",
+    "context_file",
+    "session_data",
+    "global_claude_md",
+    "user_commands",
+    "user_agents",
+    "credentials"
+  ]
+}
